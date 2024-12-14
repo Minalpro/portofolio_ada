@@ -1,0 +1,65 @@
+
+
+
+.primaire {
+    background-color: aquamarine;
+    float: left;
+    text-align: justify;
+    margin: 0px;
+    
+}
+.universitaire {
+    background-color: azure;
+    float: left;
+    text-align: justify;
+    margin: 0px;
+}
+.experience {
+    background-color: darkcyan;
+    float: left;
+    text-align: justify;
+    margin: 0px
+}
+.continue {
+    background-color: darkturquoise;
+    float: left;
+    text-align: justify;
+    margin: 0px
+}
+.hobbie {
+    background-color: deepskyblue;
+    float: left;
+    text-align: justify;
+    margin: 0px
+}
+
+.primaire >img {
+    float: right;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+}
+.universitaire >img {
+    float: right;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+}
+.experience >img {
+    float: right;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+}
+.continue >img {
+    float: right;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+}
+.hobbie >img{
+    float: right;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+}
